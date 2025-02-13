@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<server>
+
+<Config 
+    configName="SkyServerConfig"
+    packageName="com.skyworth.2cc5927e"
+    filePath="skyworth/SkyServerConfig.xml"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkyServerConfig.xml"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="1.0"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
+    configName="SkySuperService_IZZI"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkySuperService_IZZI.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="3.0"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
+    configName="SkySuperService_IZZI_OTT"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkySuperService_IZZI_OTT.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="3.0"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
+    configName="SkySuperService_MALA"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkySuperService_MALA.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="3.0"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
+    configName="SkySuperService_MALA_HP4BF"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkySuperService_MALA_HP4BF.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="3.0"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
+    configName="SkySuperService_REME"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkySuperService_REME.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="3.0"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
+    configName="SkySuperService_MEGA"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkySuperService_MEGA.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="3.0"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
+    configName="SkyOtherApp_MEGA_34"
+    packageName="com.droidlogic.exoplayer2.demo"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkyExoPlayerUsb.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="2.12.2_20211025"
+    serialRange="HP46A21490000063-HP46A21490000063-HP46A21490000063"
+></Config>
+
+<Config 
+    configName="SkySmallClient"
+    packageName="com.skyworth.smallclient"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkySmallClient.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="3.0"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+</server>

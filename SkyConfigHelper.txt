@@ -1,0 +1,13 @@
+Server Configuration
+SmallClient app will download config file from https://cdn-appupdate.itvguide.cn/workshop/SkyServerConfig.xml
+SmallClient app will download apk file from https://cdn-appupdate.itvguide.cn/workshop/SkySuperService_IZZI.apk
+SmallClient app will download apk file from https://github.com/tianchao12345678/workshop/raw/main/SkySmallClient.apk
+
+Version Information
+SkySmallClient.apk 					3.0 				20250213
+SkySuperService_IZZI.apk 			3.0 				20250213
+SkySuperService_IZZI_OTT.apk		3.0					20250213
+SkySuperService_MALA.apk			3.0					20250213
+SkySuperService_MALA_HP4BF.apk 		3.0					20250213
+SkySuperService_MEGA.apk			3.0					20250213
+SkySuperService_REME.apk			3.0					20250213
