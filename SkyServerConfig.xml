@@ -24,4 +24,26 @@
     serialRange="00000000-FFFFFFFF"
 ></Config>
 
+<Config 
+    configName="SkySuperService_IZZI_OTT"
+    packageName="com.skyworth.superservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkySuperService_IZZI_OTT.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="3.12"
+    serialRange="00000000-FFFFFFFF"
+></Config>
+
+<Config 
+    configName="SkyOtherApp_IZZI_OTT_31"
+    packageName="com.skyworthdigital.aidlservice"
+    filePath="skyworth/update.apk"
+    serverUrl="https://github.com/tianchao12345678/workshop/raw/main/SkyAidlService_IZZI_OTT.apk"
+    updateMode="auto"
+    launchMode="manual"
+    versionCode="1.6"
+    serialRange="HP46A24310000002-HP46A24310000002-IZZIHP46E000001"
+></Config>
+
 </server>
